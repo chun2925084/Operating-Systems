@@ -1,0 +1,7 @@
+alloc 16
+alloc 16
+alloc 16
+alloc 16
+free 0x000000000018
+free 0x000000000098
+print bin[1]
